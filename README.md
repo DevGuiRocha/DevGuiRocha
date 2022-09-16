@@ -14,4 +14,8 @@
 <br><br>
 👓 Estudando Java Script (Node e React principalmente), PL/SQL e NoSQL <br><br>
 
-<div class="tenor-gif-embed" data-postid="24851897" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/made-by-raphael-browning-gif-24851897">Made By Raphael Browning GIF</a>from <a href="https://tenor.com/search/made+by+raphael+browning-gifs">Made By Raphael Browning GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!--
+<p align="center">
+  <img src="https://c.tenor.com/sulJImszpbUAAAAC/made-by-raphael-browning.gif" width="350">
+</p>
+-->
