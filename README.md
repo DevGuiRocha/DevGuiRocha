@@ -1,10 +1,10 @@
 # Olá, eu sou o Guilherme Rocha.
 
-Atualmente trabalho com desenvolvimento utilizando a ferramenta GeneXus, utilizando o PostgreSQL como banco de dados e migrando para a tecnologia Ruby on Rails.
 
 
-👓 Estudando Java Script (Node e React principalmente), PL/SQL e NoSQL
-🔭 Hoje trabalho como FullStack Júnior, com sonhos de ser DBA
+🔭 Atualmente trabalho com desenvolvimento utilizando a ferramenta GeneXus, utilizando o PostgreSQL como banco de dados e migrando para a tecnologia Ruby on Rails.
+<br><br>
+👓 Estudando Java Script (Node e React principalmente), PL/SQL e NoSQL <br><br>
 
 
 
