@@ -35,9 +35,11 @@ Tenho 25 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mu
 
 📚 Costumo estudar sobre novas tecnologias sempre que possível.
 
-☕🎮 E como nem só de estudos vive uma pessoa, amo um café reforçado para começar a sessão de programação e gosto de jogar para me distrair (mesmo que jogando online acabe estressando mais que jogando).
+☕🎮🕺🏻 E como nem só de estudos vive uma pessoa, amo um café reforçado para começar a sessão de programação, gosto de jogar para me distrair (mesmo que jogando online acabe estressando mais que jogando) e também dançar (um programador dançarino, quem diria né).
 
 📩 Você pode entrar em contato comigo por [E-mail](mailto:jguilherme.1997@gmail.com) ou através do [LinkedIn](https://www.linkedin.com/in/guilherme-rocha-828701b6) e responderei assim que possível.
+
+💻 Além disso, pode acompanhar minha evolução com os repositórios existentem aqui mesmo. Aos poucos vou melhorando e criando novos projetos, evoluindo como programador e como profissional.
 
 </br></br></br>
 
