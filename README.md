@@ -15,7 +15,7 @@
 👓 Estudando Java Script (Node e React principalmente), PL/SQL e NoSQL <br><br>
 
 <p align="center">
-    <img src="https://i.ibb.co/ySV51R1/lofi-generator.png" alt="image" heigth="1000" width="1000">
+    <img src="https://i.ibb.co/ySV51R1/lofi-generator.png">
 <p>
 
 <!--
