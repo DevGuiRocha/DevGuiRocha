@@ -30,9 +30,16 @@ Tenho 25 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mu
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" tittle="MySQL"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" tittle="MongoDB"/>
 </div>          
-          
-##
+      
+</br>
 
+📚 Costumo estudar sobre novas tecnologias sempre que possível.
+
+☕🎮 E como nem só de estudos vive uma pessoa, amo um café reforçado para começar a sessão de programação e gosto de jogar para me distrair (mesmo que jogando online acabe estressando mais que jogando).
+
+📩 Você pode entrar em contato comigo por [E-mail](mailto:jguilherme.1997@gmail.com) ou através do [LinkedIn](https://www.linkedin.com/in/guilherme-rocha-828701b6) e responderei assim que possível.
+
+</br></br></br>
 
 <!--
 <p align="center">
