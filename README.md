@@ -26,6 +26,7 @@ Tenho 25 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mu
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" tittle="Git"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" tittle=NodeJS/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" tittle="ReactJS"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" tittle="Rails"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" tittle="PostgreSQL"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" tittle="MySQL"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" tittle="MongoDB"/>
@@ -41,14 +42,8 @@ Tenho 25 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mu
 
 💻 Além disso, pode acompanhar minha evolução com os repositórios existentem aqui mesmo. Aos poucos vou melhorando e criando novos projetos, evoluindo como programador e como profissional.
 
-</br></br></br>
+</br></br>
 
-<!--
-<p align="center">
-    <img src="https://i.ibb.co/ySV51R1/lofi-generator.png" width="600">
-<p>
-
--->
 
 <p align="center">
   <img src="https://c.tenor.com/sulJImszpbUAAAAC/made-by-raphael-browning.gif" width="350">
