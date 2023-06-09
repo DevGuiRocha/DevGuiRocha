@@ -23,6 +23,7 @@ Tenho 25 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mu
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" tittle="CSS3"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" tittle=JavaScript/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" tittle="Ruby"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" tittle="Python"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" tittle="Git"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" tittle=NodeJS/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" tittle="ReactJS"/>
