@@ -10,7 +10,7 @@
 
 ## Olá Pessoas, :)
 
-Tenho 26 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mundo da programação a pouco mais de 2 anos, e quanto mais passo raiva caçando pequenos bugs mais me apaixono por esse universo.
+Tenho 28 anos, moro em Fortaleza/CE mas sou natural de Brasília. Estou nesse mundo da programação a pouco mais de 8 anos, e quanto mais passo raiva caçando pequenos bugs mais me apaixono por esse universo.
 
 <p align="center">
     <img align="center" width="250" src="https://i.ibb.co/rmFP1D2/Whats-App-Image-2022-09-19-at-10-01-38.jpg">
